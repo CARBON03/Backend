@@ -1,0 +1,5 @@
+To run This First Install node and run => npm install <= in console
+then run => node index1.js <= in console or
+then run => node index2.js <= in console or
+then run => node index3.js <= in console or
+then run => node index4.js <= in console
